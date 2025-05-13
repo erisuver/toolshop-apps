@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_kartu_piutang"
+        android:title="Kartu Piutang"/>
+    <item
+        android:id="@+id/menu_umur_piutang"
+        android:title="Umur Piutang"/>
+</menu>
